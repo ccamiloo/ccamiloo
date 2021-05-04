@@ -1,9 +1,9 @@
 <h2 align="center"> :sparkles: Welcome to my profile! :sparkles:</h2>
 
 
-Hello! My name is Camilo, I am a _programmer in process_, currently learning a lot about web technologies.
+Hello! My name is Camilo, and I like to call myself a _"programmer in process"_ Currently, I'm learning a lot about web technologies.
 
-Besides programming, I like math, and listen to music.
+Besides coding, I like math and listening to music.
 
 ## :computer: Technologies I use
 
@@ -36,6 +36,9 @@ Besides programming, I like math, and listen to music.
   <img src="https://img.shields.io/badge/WebComponents-4A4A55?style=for-the-badge&logo=webcomponents.org&logoColor=C6FF73" alt="Web Components" />
 </p>
 
-## Recommended song
-
-[![Song](https://img.shields.io/badge/Song-yellow?style=for-the-badge)](https://youtu.be/5MgngRimWXA)
+## :notes: Recommended song
+<p align="center">
+  <a href="https://youtu.be/5MgngRimWXA">
+    <img src="https://img.shields.io/badge/Song-yellow?style=for-the-badge" />
+  </a>
+</p>
