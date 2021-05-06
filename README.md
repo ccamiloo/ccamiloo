@@ -1,5 +1,6 @@
-<h2 align="center"> :sparkles: Welcome to my profile! :sparkles:</h2>
+<h2 align="center"> :sparkles: Welcome! :sparkles:</h2>
 
+![Cover Photo](./cover.png)
 
 Hello! My name is Camilo, and I like to call myself a _"programmer in process"_ Currently, I'm learning a lot about web technologies.
 
