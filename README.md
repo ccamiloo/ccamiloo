@@ -39,7 +39,7 @@ Besides coding, I like math and listening to music.
 
 ## :notes: Recommended song
 <p align="center">
-  <a href="https://youtu.be/5MgngRimWXA">
+  <a href="https://youtu.be/4HjcypoChfQ">
     <img src="https://img.shields.io/badge/Song-yellow?style=for-the-badge" />
   </a>
 </p>
